@@ -1,2 +1,3 @@
-# redesign-sdk.github.io
+# DOCS OF REDESIGN SDK 
+---
 Redesign SDK
